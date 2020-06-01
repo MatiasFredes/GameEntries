@@ -2,7 +2,7 @@ using System;
 using Xunit;
 using System.Linq;
 
-namespace GaneEntries.Tests
+namespace GameEntries.Tests
 {
     public class ArrayExtensionsTests
     {
